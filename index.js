@@ -11,7 +11,7 @@ export default function(object) {
   } else if (type === 'object') {
     type = toString.call(object).slice(8, -1);
   }
-  
+
   return type.toLowerCase();
 }
-// module.exports
+// module.exports devDependencies
