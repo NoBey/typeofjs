@@ -14,4 +14,4 @@ export default function(object) {
 
   return type.toLowerCase();
 }
-// module.exports devDependencies
+// module.exports
